@@ -1,7 +1,14 @@
 [
     {
+<<<<<<< HEAD
         "titulo": "fazer compras para casa",
         "descricao": "ir ao mercado"
     }
 ]
 
+=======
+        "titulo": "fazer compras",
+        "descricao": "ir ao mercado"
+    }
+]
+>>>>>>> 570f3e0a5a25fcda837a59a94a4f15b15747b34f
